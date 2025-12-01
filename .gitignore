@@ -1,0 +1,5 @@
+.venv
+*input.txt
+*data.txt
+*output.txt
+*.code-workspace
